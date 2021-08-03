@@ -1,5 +1,5 @@
 # haskell-state-type
-An implementation of the Haskell type State.
+An implementation of the Haskell's State type.
 
 State variables are those which are used in the evaluation of a function, but are not included as parameters.
 
